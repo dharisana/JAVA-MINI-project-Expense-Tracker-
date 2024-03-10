@@ -1,0 +1,1 @@
+Explore my GitHub repository showcasing a Java mini project for an intuitive expense tracker. Efficiently manage your finances with this user-friendly application, designed to simplify expense tracking and enhance financial management.
